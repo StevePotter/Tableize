@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tableize", "Library\Tableize.csproj", "{8DE2B4E4-BBC6-408F-916D-431382000000}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "..\Tests\Tests.csproj", "{D362B252-189D-4233-BB6D-5E9D45E3E017}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{D362B252-189D-4233-BB6D-5E9D45E3E017}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4071A320-8134-41D6-BA06-EAB16ED6542D}"
 	ProjectSection(SolutionItems) = preProject
